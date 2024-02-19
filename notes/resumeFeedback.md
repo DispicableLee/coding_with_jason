@@ -1,0 +1,4 @@
+- 1 page resume is standard and expected
+- 2-4 bullet points per project/experience
+- When choosing which details to keep, think of highest impact statements
+    - i.e. "Meeting feature requirements" is easily assumable, but "AWS s3 work to performantly seed DB is not". The latter is more impactful to the reader 
