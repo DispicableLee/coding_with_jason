@@ -1,0 +1,12 @@
+#banner-main{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+}
+
+.banner-header{
+    margin: 5px;
+}
