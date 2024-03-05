@@ -67,10 +67,25 @@ https://www.techinterviewhandbook.org/software-engineering-interview-guide/
 https://leetcode.com/problems/valid-palindrome/description/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
-
 # 02/15/24
 - Sched
 - Resume
 - Project
 - LC https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 - LC https://leetcode.com/problems/group-anagrams/description/
+
+# 02/22/24
+- Sched
+- Resume
+- Project
+- LC https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+- LC https://leetcode.com/problems/group-anagrams/description/
+
+# 02/29/24
+- Roadmap
+- Project
+- LC
+
+# 03/04/24
+- Catch up
+- Linked Lists
