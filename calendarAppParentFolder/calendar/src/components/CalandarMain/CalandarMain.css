@@ -1,0 +1,23 @@
+#calandar-main-div{
+    border: 1px solid black;
+    height: 65vh;
+    margin: auto;
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.calandar-main-header{
+    border: 1px solid blueviolet;
+    height: 10%;
+}
+
+.day-container{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+    height: 90%;
+    padding: auto;
+}

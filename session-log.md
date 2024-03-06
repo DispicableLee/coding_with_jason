@@ -89,3 +89,5 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 # 03/04/24
 - Catch up
 - Linked Lists
+https://leetcode.com/problems/reverse-linked-list/description/
+https://leetcode.com/problems/linked-list-cycle/description/
