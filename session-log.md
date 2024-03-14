@@ -91,3 +91,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 - Linked Lists
 https://leetcode.com/problems/reverse-linked-list/description/
 https://leetcode.com/problems/linked-list-cycle/description/
+
+# 03/07/24
+https://leetcode.com/problems/linked-list-cycle/description/
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/
