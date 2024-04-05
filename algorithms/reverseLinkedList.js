@@ -48,3 +48,47 @@ function ListNode(val, next) {
 let testList = new ListNode(1, new ListNode(2, null))
 
 console.log(reverseList(testList))
+
+
+// ====================================== Recursive Solution ==========================================
+
+
+// 1. Base Case: if the node does not exist, return null
+// 2. we need to be able to keep track of:
+//      - The Previous Node
+//      - The Current Node
+//      - The Next Node
+//  without swapping
+// PREV, CURRENT, NEXT
+// 3. helper functions may be necessary
+
+
+//      P    C    N
+// |    |    |
+// v    v    v           
+// 1 => 2 => 3 => 4 ===================> 4 => 3 => 2 => 1
+// H
+
+
+
+// 1 <= 2    3 => 4 ===================> 4 => 3 => 2 => 1
+
+
+
+var recusivelyReverseList = function(head) {
+    return reverseListHelper(head, null)
+}
+
+// 1
+var reverseListHelper = function (currentNode, previousNode) {
+    if(currentNode){
+        let nextNode = currentNode.next;
+        currentNode.next = previousNode
+        return reverseListHelper(nextNode, currentNode)
+    }else{
+        return previousNode
+    }
+}
+
+// for x in [x1, x2, x... xN]:
+    // O(M) operation here

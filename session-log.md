@@ -95,3 +95,34 @@ https://leetcode.com/problems/linked-list-cycle/description/
 # 03/07/24
 https://leetcode.com/problems/linked-list-cycle/description/
 https://leetcode.com/problems/insert-delete-getrandom-o1/description/
+
+# 03/14/24
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/
+
+# 03/18/24
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/
+(recursive solution) https://leetcode.com/problems/reverse-linked-list/description/
+
+# 03/21/24
+https://leetcode.com/problems/power-of-two/description/
+
+# 03/25/24
+https://leetcode.com/problems/swap-nodes-in-pairs/description/
+https://leetcode.com/problems/swap-nodes-in-pairs/solutions/751194/javascript-iterative-time-o-n-space-o-1-explanation/ 
+
+# 03/28/24
+Interview Practices
+https://leetcode.com/problems/generate-parentheses/description/
+
+# 04/04/24
+https://leetcode.com/problems/generate-parentheses/description/
+
+"Break" until April 15
+
+- Resume
+
+
+
+
+
+
