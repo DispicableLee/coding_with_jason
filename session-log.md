@@ -121,8 +121,13 @@ https://leetcode.com/problems/generate-parentheses/description/
 
 - Resume
 
+# 04/15/24
+https://leetcode.com/problems/binary-search/description/ 
 
+# 04/20/24
+https://leetcode.com/problems/invert-binary-tree/description/
 
-
-
-
+# 04/25/24
+- Give isValidParenthesis a try, after some time, take a look at this solution
+    https://leetcode.com/problems/valid-parentheses/solutions/3399077/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation/
+- Also try `Merge Two Sorted Lists`
