@@ -131,3 +131,16 @@ https://leetcode.com/problems/invert-binary-tree/description/
 - Give isValidParenthesis a try, after some time, take a look at this solution
     https://leetcode.com/problems/valid-parentheses/solutions/3399077/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation/
 - Also try `Merge Two Sorted Lists`
+
+# 06/06/24
+- Runtime analysis of maxDepth
+- https://leetcode.com/problems/balanced-binary-tree/description/
+
+# 06/13/24
+- Finish BBT
+- Runtime analysis of BBT
+- Consolidating left & right subtree existence checks
+
+
+
+

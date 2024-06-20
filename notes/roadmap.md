@@ -14,11 +14,11 @@ X Resume
         X Linked List 
         X Hash Table 
         ~ Recursion
-        - Sorting
-        - Matrix
+        ~ Sorting
+        X Matrix
         - Queue
         - Stack
-        - Tree
+        X Tree
         - Graph
     - Advanced proficiency
         - Array
@@ -30,5 +30,3 @@ X Resume
     - System Design
 - STAR Interviews
 - Networking
-
-

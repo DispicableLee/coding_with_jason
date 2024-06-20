@@ -28,22 +28,19 @@ Constraints:
  */
 var canConstruct = function(ransomNote, magazine) {
     let magazineHash = {}
-
     for(const letter of magazine){
-        if(magazineHash.hasKey(letter)){
-            magazineHash[letter] = 1
-        }else{
+        if(magazineHash[letter]){
             magazineHash[letter]++
+        }else{
+            magazineHash[letter] = 1
         }
     }
-
     for(const letter of ransomNote){
-        if(letter in magazineHash && magazineHash[letter]>0){
+        if(magazineHash[letter] && magazineHash[letter]>0){
             magazineHash[letter]--
         }else{
             return false
         }
     }
-
     return true
 };
